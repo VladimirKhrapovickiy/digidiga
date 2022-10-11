@@ -1,2 +1,2 @@
 # digidiga
-cool main page
+interesting design of main page
